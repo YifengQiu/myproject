@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/com.ibm.iotf.client-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.iotf.samples-1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.json4j_1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.ws.jaxrs_1.0.3.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.ws.slf4j-api.1.7.7_1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/com.ibm.ws.slf4j-jdk14.1.7.7_1.0.0.jar"/>
+	<classpathentry kind="lib" path="lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="lib/commons-net-3.3.jar"/>
+	<classpathentry kind="lib" path="lib/fluent-hc-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-cache-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpmime-4.5.1.jar"/>
+	<classpathentry kind="lib" path="lib/joda-time-2.6.jar"/>
+	<classpathentry kind="lib" path="lib/json4j-apache-1.1.0.jar"/>
+	<classpathentry kind="lib" path="lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="lib/org.eclipse.paho.client.mqttv3-1.0.3-20150818.040635-202.jar"/>
+	<classpathentry kind="lib" path="lib/ca.crc.sea.app-1.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/IBM/IBM DATA SERVER DRIVER/java/db2jcc.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
