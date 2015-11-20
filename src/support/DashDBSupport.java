@@ -33,7 +33,7 @@ public class DashDBSupport implements ItmConst {
 			properties.load(in);
 			url = properties.getProperty("url");
 			pw = properties.getProperty("password");
-			username = properties.getProperty("username");
+			username = properties.getProperty("username").toUpperCase();
 			Global.db_name = username;
 			
 			// the db2 driver string
